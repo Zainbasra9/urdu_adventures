@@ -109,7 +109,7 @@ export default function UrduAdventuresLanding() {
             </h1>
 
             <p className="text-xl md:text-2xl text-slate-600 leading-relaxed max-w-xl mx-auto lg:mx-0 font-medium">
-              Join the magical journey of <span className="font-bold text-orange-500">Haroof-e-Tahajji!</span> Master letters, words, and sounds with our AI-powered adventure for kids 3-5.
+              Join the magical journey of <span className="font-bold text-orange-500">Paroof-e-Tahajji!</span> Master letters, words, and sounds with our AI-powered adventure for kids 3-5.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
