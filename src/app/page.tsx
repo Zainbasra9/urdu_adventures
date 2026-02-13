@@ -19,7 +19,7 @@ export default function UrduAdventuresLanding() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   // Note: This is a signed URL and may expire. For a permanent link, enable "Public Access" in R2.
-  const APK_DOWNLOAD_URL = "https://pub-faf2dd128582445f992f88e4f6f07ef8.r2.dev/UrduAdventure1.apk";
+  const APK_DOWNLOAD_URL = "https://pub-faf2dd128582445f992f88e4f6f07ef8.r2.dev/UrduAdventure.apk";
 
   const handleDownload = () => {
     window.open(APK_DOWNLOAD_URL, '_blank');
